@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c0b4847-da95-43db-b5ef-c0cb68a4ef1a" name="Changes" comment="GenericExamples">
-      <change afterPath="$PROJECT_DIR$/src/GenericReturningMethods/GenericReturningMethods.java" afterDir="false" />
+    <list default="true" id="4c0b4847-da95-43db-b5ef-c0cb68a4ef1a" name="Changes" comment="generic returning methods">
+      <change afterPath="$PROJECT_DIR$/src/GenericClasses/IMusicGenre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericClasses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericClasses/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericClasses/RapMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericClasses/TechnoMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677071251261</updated>
-      <workItem from="1677071252351" duration="1658000" />
+      <workItem from="1677071252351" duration="12822000" />
     </task>
     <task id="LOCAL-00001" summary="GenericExamples">
       <created>1677071876014</created>
@@ -55,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677071876014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="generic returning methods">
+      <created>1677072986000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677072986000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GenericExamples" />
-    <option name="LAST_COMMIT_MESSAGE" value="GenericExamples" />
+    <MESSAGE value="generic returning methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="generic returning methods" />
   </component>
 </project>
